@@ -1,8 +1,6 @@
 Olá, eu sou o Leandro!
 - Instituição de Ensino: ETEC Centro Paula Souza
-<div>
-  <a href="https://github.com/Youapin">
-</div><br>
+
 ------------------------------------Linguagens------------------------------------------------
 <div style="display: inline_block"><br>
   <img align="center" alt="Leandro-Js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
