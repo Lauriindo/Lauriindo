@@ -5,11 +5,11 @@ Olá, eu sou o Leandro!
 </div><br>
 ------------------------------------Linguagens------------------------------------------------
 <div style="display: inline_block"><br>
-  <img align="center" alt="Leandro-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=ffffff&logoColor=F7DF1E&logo=javascript">
+  <img align="center" alt="Leandro-Js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img align="center" alt="Leandro-Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=FFD43B&logoColor=3776AB&logo=python">
-  <img align="center" alt="Leandro-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Leandro-Csharp" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt="Leandro-PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&labelColor=212433&logoColor=777BB4&logo=php">
-  <img align="center" alt="Leandro-Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&labelColor=1e2122&logoColor=339933&logo=node-dot-js">
+  <img align="center" alt="Leandro-Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="Leandro-CSS" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 </div><br><br>
 --------------------------------------Bancos---------------------------------------------------
