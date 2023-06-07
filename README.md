@@ -30,5 +30,5 @@ Olá, eu sou o Leandro!
 -----------------------------------Redes sociais------------------------------------------
 </div><br><br>
  <div style="display: inline_block"><br>
-  <img align="center" alt="Leandro-Discord" a href="https://github.com/Youapin" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&labelColor=5865F2&logoColor=ffffff&logo=discord">
+  <img align="center" alt="Leandro-Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&labelColor=5865F2&logoColor=ffffff&logo=discord">
 </div>
