@@ -6,6 +6,8 @@
 </p>
 <p align="center">
   - Técnico em Desenvolvimento de Sistemas pela Instituição de Ensino: ETEC Centro Paula Souza</p>
+  <p align="center">
+  - Estudante de Ciência da Computação pela Instituição de Ensino: UniFecaf</p>
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <p align="center">Linguagens:</p>
 <div style="display: inline_block" align="center"><br>
