@@ -2,7 +2,7 @@
   Olá, eu sou o Leandro!
 </p>
 <p align="center">
-  🖥️
+  🖥️ Suporte Técnico Jr.
 </p>
 <p align="center">
   - Técnico em Desenvolvimento de Sistemas pela Instituição de Ensino: ETEC Centro Paula Souza</p>
